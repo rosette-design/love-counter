@@ -11,9 +11,7 @@ export default function Home() {
     person1Name: 'Alex',
     person2Name: 'Jordan',
     // Set your background image URL or gradient
-    backgroundImage: 'linear-gradient(to right, #ff758c, #ff7eb3)'
-    // Alternatively, use an image URL:
-    // backgroundImage: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7'
+    backgroundImage: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7'
   };
 
   return (
